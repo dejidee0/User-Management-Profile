@@ -81,5 +81,7 @@ Token-based authentication is used and it can only be valid for the user under o
 <h2>Testing</h2>
 Unit tests is included in the Tests folder. You can Run tests using the command: dotnet test.
 
+![image](https://github.com/dejidee0/User-Management-Profile/assets/107705210/6f90962e-0dd1-450e-8a70-90bb804cd8b7)
+
 
 
